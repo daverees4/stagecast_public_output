@@ -3452,3 +3452,7 @@ body.single-page-version .single-page-nav-wrap-inner .sinle-page-nav-links {
 .buttonblack {
 	color: #333 !important;
 }
+
+.team-image {
+  width: 50% !important;
+}

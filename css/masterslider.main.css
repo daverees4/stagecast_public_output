@@ -3041,3 +3041,7 @@ only screen and (                min-resolution: 2dppx) {
     bottom: 0;
     background-position: 50% -145px;
 }
+
+.team-image {
+  width: 50%;
+}
